@@ -2,7 +2,7 @@
 
 Situs web portofolio pribadi modern yang dirancang untuk menampilkan latar belakang, keahlian teknis, dan proyek-proyek saya di dunia teknologi. 
 
-🌐 **Kunjungi Website:** [Daniel's Portfolio on GitHub Pages](https://DanielSitumorang1.github.io/portofolio) *(Ubah tautan ini sesuai URL GitHub Pages Anda)*
+🌐 **Kunjungi Website:** [Daniel's Portfolio on GitHub Pages]() *(Ubah tautan ini sesuai URL GitHub Pages Anda)*
 
 ---
 
